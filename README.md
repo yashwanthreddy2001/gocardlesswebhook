@@ -1,2 +1,0 @@
-# gocardlesswebhook
-testwebhooks
